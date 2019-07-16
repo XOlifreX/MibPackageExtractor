@@ -1,0 +1,9 @@
+packages/
+.vs/
+Debug/
+x64/
+MIBExtractor/Debug/
+MIBExtractor/x64/
+MIBExtractor/files/
+*.mib
+MIBExtractor/*.mib
